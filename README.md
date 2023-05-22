@@ -1,5 +1,3 @@
-# ColorPaletteGenerator
-
 # Color Palette Generator
 
 Welcome to the Color Palette Generator. This innovative web application is designed to streamline the design process for frontend developers, enhancing user experience and customization. Utilizing the OpenAI API's "text-davinci-003" model, the app generates color palettes based on user search queries.
